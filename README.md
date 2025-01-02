@@ -83,10 +83,6 @@ The **GUIDE dataset** contains cybersecurity incident records annotated with tri
 ## **Contributing**
 We welcome contributions from the community! If you would like to improve this project, feel free to fork the repository, create a pull request, or submit an issue for bug reports or feature requests.
 
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ### **Contact**
 For any questions or inquiries, please reach out to:
